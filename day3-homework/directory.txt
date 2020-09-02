@@ -1,0 +1,4 @@
+total 1212896
+-rw-r--r--  1 cmdb  staff  616564462 31 Aug 16:02 SRR072893.bam
+-rw-r--r--  1 cmdb  staff     239600  2 Sep 17:57 SRR072893.bam.bai
+-rw-r--r--  1 cmdb  staff          0  2 Sep 17:58 directory.txt
